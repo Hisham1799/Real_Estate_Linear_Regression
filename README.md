@@ -122,27 +122,6 @@ prediction = model.predict(new_data)
 print("Prediction:", prediction)
 ```
 
-## How to Run
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/house-price-prediction-linear-regression.git
-    ```
-
-2. Install the required Python libraries:
-
-    ```bash
-    pip install pandas numpy seaborn matplotlib scikit-learn
-    ```
-
-3. Run the Jupyter Notebook:
-
-    ```bash
-    jupyter notebook
-    ```
-
-4. Open the `House_Price_Prediction_Linear_Regression.ipynb` file and execute the cells.
 
 ## References
 

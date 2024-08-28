@@ -13,8 +13,7 @@ This project focuses on predicting house prices using a Linear Regression model.
 7. [Model Building](#model-building)
 8. [Evaluation](#evaluation)
 9. [Results](#results)
-10. [How to Run](#how-to-run)
-11. [References](#references)
+10. [References](#references)
 
 ## Introduction
 

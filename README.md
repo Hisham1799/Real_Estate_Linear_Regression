@@ -120,7 +120,11 @@ new_data = [[2, 1, 1050, 403365, 1]]
 prediction = model.predict(new_data)
 print("Prediction:", prediction)
 ```
-
+## Screenshots
+![Code Screenshots](Screenshots/Screenshot1.png)
+![Code Screenshots](Screenshots/Screenshot2.png)
+![Code Screenshots](Screenshots/Screenshot3.png)
+![Code Screenshots](Screenshots/Screenshot4.png)
 
 ## References
 
